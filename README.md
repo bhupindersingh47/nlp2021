@@ -1,5 +1,6 @@
 # NLP (Text Mining) Project Repository - Ryerson University [Winter 2021] 
 
+# Group 12 
 
 # Title: Topic Modelling and Search with Top2Vec   
 
