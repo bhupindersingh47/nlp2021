@@ -12,7 +12,7 @@
           richa4.sharma@ryerson.ca 
 
   
-## Dataset URLs:  
+## Dataset URL:  
 https://www.kaggle.com/dangelov/covid19top2vec  
 ## Introduction:  
 ### Problem Description:  
