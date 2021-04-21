@@ -38,7 +38,7 @@ Also, these methods use bag-of-words (BOW) representation of documents as input 
 
 This brings us to the problem statement: how to address and overcome these weaknesses and build a better model for discovering topics. The approaches and solutions offered by Top2Vec are discussed and presented in subsequent sections.  
 
-Limitation About other Approaches:  
+### Limitation About other Approaches:  
 As discussed in detail in the Context section above, traditional topic modeling methods LDA & PLSA require the number of topics to be known, custom stop-word lists, stemming, and lemmatization, and rely on a bag-of-words representation of documents, which is less than ideal.  
 
 ### Solution:  
