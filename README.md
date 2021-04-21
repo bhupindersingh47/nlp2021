@@ -20,7 +20,7 @@ I have provided the URL to the dataset herein.***
 
 ## Note:  
 ***Please note that the main project file is NLP_Final_Project_Top2Vec_BhupinderSingh_RichaSharma.ipynb***  
-***The file Top2Vec_Training_&_Application.ipynb contains additional implementation details.***  
+***The file Top2Vec_Training_&_Application_[secondary_notebook].ipynb contains additional implementation details for pre-processing the huge dataset and for training the model with different parameters.***  
 
 ## Introduction:  
 ### Problem Description:  
