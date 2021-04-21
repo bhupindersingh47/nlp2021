@@ -3,11 +3,12 @@ NLP (Text Mining) Project Repository - Ryerson University [Winter 2021]
 
 Title: Topic Modelling and Search with Top2Vec
 Members' Names:
-                    Bhupinder Singh
-                    Richa Sharma
+          Bhupinder Singh
+          Richa Sharma
+
 Emails:
-                    bhupinder1.singh@ryerson.ca
-                    richa4.sharma@ryerson.ca 
+          bhupinder1.singh@ryerson.ca
+          richa4.sharma@ryerson.ca 
 
 
 Introduction:
