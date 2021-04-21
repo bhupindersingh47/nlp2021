@@ -29,7 +29,7 @@ I then installed every version of Top2Vec backwards.
 1.0.6 is the version that is running correctly without any errors.  
 
 ## Note:  
-Please check **src** folder for Top2Vec source code.  
+Please check ***src*** folder for Top2Vec source code.  
 
 ## Introduction:  
 ### Problem Description:  
